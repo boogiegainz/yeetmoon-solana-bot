@@ -7,7 +7,7 @@
 
 ## ⬇️ Download Free
 
-**[→ Download Latest Release](https://github.com/YOUR_USERNAME/yeetmoon-solana-bot/releases/latest)**
+**[→ Download Latest Release](https://github.com/boogiegainz/yeetmoon-solana-bot/releases/latest)**
 
 - Windows 10 / 11 only
 - ~40 MB · No install needed · Double-click to run
@@ -80,6 +80,8 @@ Look for wallets with:
 The free version simulates trades — the paid version actually executes them.
 
 **[→ Get the Full Bot at yeetmoon.live](https://yeetmoon.live)**
+
+
 
 | | Free | Bot ($100) | Bundle ($150) |
 |---|---|---|---|
