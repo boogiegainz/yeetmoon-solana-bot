@@ -79,7 +79,7 @@ Look for wallets with:
 
 The free version simulates trades — the paid version actually executes them.
 
-**[→ Get the Full Bot at yeetmoon.live](https://yeetmoon.live)**
+**[→ Get the Full Bot at (https://yeetmoon.live])**
 
 
 
